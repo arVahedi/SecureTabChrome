@@ -1,0 +1,18 @@
+ {
+   "manifest_version": 2,
+
+   "name": "Secure Tab Chrome",
+   "description": "This extension will hidden tab name in browser",
+   "version": "1.0",
+
+   "browser_action": {
+   		"default_icon": "icon.png",
+        "name": "Click to get URL"
+        },
+        "background":{
+            "scripts":["background.js"]
+        },
+   "permissions": [
+    "activeTab"
+    ]
+ } 
