@@ -1,8 +1,8 @@
-chrome.browserAction.onClicked.addListener(function(tab) { 
+chrome.browserAction.onClicked.addListener(function (tab) {
 
-	var injectingScript = "var link = document.createElement('link');link.type = 'image/x-icon';link.rel = 'shortcut icon';link.href = 'http://cdn.sstatic.net/stackoverflow/img/favicon.ico';document.getElementsByTagName('head')[0].appendChild(link);";
+    var injectingScript = "var link = document.createElement('link');link.type = 'image/x-icon';link.rel = 'shortcut icon';link.href = 'https://github.com/arVahedi/SecureTabChrome/blob/master/icon.png?raw=true';document.getElementsByTagName('head')[0].appendChild(link);";
 
-	var tabId = tab.id;
-	chrome.tabs.executeScript(tabId,{code:"document.title = '...'"});
-	chrome.tabs.executeScript(tabId,{code: injectingScript});
+    var tabId = tab.id;
+    chrome.tabs.executeScript(tabId, {code: "document.title = '...'"});
+    chrome.tabs.executeScript(tabId, {code: injectingScript});
 });
