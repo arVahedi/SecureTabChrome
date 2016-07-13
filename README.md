@@ -16,3 +16,7 @@ This is a simple extension for chrome browser, that it can hide your favicon and
 ## How to use?
 
 After install extension on your browser, one button add to top right side of your browser. when you click on it button, your **active tab** will affected.
+
+## License
+
+[GNU GENERAL PUBLIC LICENSE Version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
