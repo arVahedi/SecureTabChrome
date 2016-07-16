@@ -10,9 +10,9 @@ This is a simple extension for chrome browser, that it can hide your favicon and
 ## Installation
 
 1. First cloning or download this repository on your computer.(If it is ZIP’d, extract the contents somewhere)
-2. In Chrome, open **_chrome://extensions/_**
-3. Click + **_Developer mode_**
-4. Click **_Load unpacked extension…_**
+2. In Chrome, open **_`chrome://extensions/`_**
+3. Click + **_`Developer mode`_**
+4. Click **_`Load unpacked extension…`_**
 5. Navigate to the extension’s folder and click OK
 
 ## How to use?
