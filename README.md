@@ -1,6 +1,8 @@
 # Secure Tab Chrome
 (Secure Tab extension for Chrome browser)
 
+### **If you are a Firefox user see [SecureTabFirefox](https://github.com/arVahedi/SecureTabFirefox)**
+
 ## What is this?
 
 This is a simple extension for chrome browser, that it can hide your favicon and title of tabs to prevents other people from spying you by watching your browser. This can be very helpful tool in your workspace when you want do web browsing and your boss is a intruder man and stupid also. :wink: :sunglasses:
