@@ -21,4 +21,4 @@ After install extension on your browser, one button add to top right side of you
 
 ## License
 
-[GNU GENERAL PUBLIC LICENSE Version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl.html)
